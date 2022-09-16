@@ -3,6 +3,9 @@
 - 🔭 I’m currently working on Geographic Information System using R - Spatyal Analyst
 - ⚡ Fun fact: Chess, Gym 🏋️‍♂️
 
+About me: 
+I am a geographer and a master in Science of Geographic Information System. I have worked for more than 6 year in the impact of climate change on crops (like cocoa, coffee and tea) using Random Forest and Maxent models using R.
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/fabio-castro-19682175/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
