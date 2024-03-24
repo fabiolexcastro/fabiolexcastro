@@ -4,7 +4,9 @@
 - ⚡ Fun fact: Chess, Gym 🏋️‍♂️
 
 About me: 
-I am a geographer and a master in Science of Geographic Information System. I have worked for more than 6 year in the impact of climate change on crops (like cocoa, coffee and tea) using Random Forest and Maxent models using R.
+I am a geographer and a master in Science of Geographic Information System. I have worked for more than 7 years in the impact of climate change on crops (like cocoa, coffee and tea) using Random Forest and Maxent models using R.
+
+If you want to contact me: fabioalexandercatro@gamil.com
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/fabio-castro-19682175/">
